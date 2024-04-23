@@ -1,0 +1,15 @@
+/Users/bipingiri/personal/web development/firstapp/firstapp/bin/Debug/net7.0/firstapp
+/Users/bipingiri/personal/web development/firstapp/firstapp/bin/Debug/net7.0/firstapp.deps.json
+/Users/bipingiri/personal/web development/firstapp/firstapp/bin/Debug/net7.0/firstapp.runtimeconfig.json
+/Users/bipingiri/personal/web development/firstapp/firstapp/bin/Debug/net7.0/firstapp.dll
+/Users/bipingiri/personal/web development/firstapp/firstapp/bin/Debug/net7.0/firstapp.pdb
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/firstapp.csproj.AssemblyReference.cache
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/firstapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/firstapp.AssemblyInfoInputs.cache
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/firstapp.AssemblyInfo.cs
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/firstapp.csproj.CoreCompileInputs.cache
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/firstapp.dll
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/refint/firstapp.dll
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/firstapp.pdb
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/firstapp.genruntimeconfig.cache
+/Users/bipingiri/personal/web development/firstapp/firstapp/obj/Debug/net7.0/ref/firstapp.dll
