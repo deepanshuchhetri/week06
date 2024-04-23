@@ -23,6 +23,7 @@ class Program
         Console.WriteLine("Name of 1st Customer: " + customer1.Name);
 
         Console.WriteLine("ID of 2nd Customer:" + customer2.Id);
+        Console.WriteLine("Name of 2nd Customer: " + customer2.Name);
        
     }
 }
