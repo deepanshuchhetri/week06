@@ -24,6 +24,8 @@ class Program
 
         Console.WriteLine("ID of 2nd Customer:" + customer2.Id);
         Console.WriteLine("Name of 2nd Customer: " + customer2.Name);
+
+        Console.WriteLine("Adding log for github changes");
        
     }
 }
